@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DEF3732C-6A72-B92A-5E1F-1F924643A427}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveFade.cs" Line="26" Column="13" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="14" Column="4" />
+      <File FileName="Assets/Scripts/Object.cs" Line="12" Column="40" />
+      <File FileName="Assets/Scripts/NewMonoBehaviour.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/DisplayHighScore.cs" Line="17" Column="1" />
+      <File FileName="Assets/LeanTween/Examples/Scripts/GeneralUISpace.cs" Line="32" Column="96" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="6" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HiddenObjects" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fcd64e94-b0da-4e20-bd6b-6b668c948dc7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
